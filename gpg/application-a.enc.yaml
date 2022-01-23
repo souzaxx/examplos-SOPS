@@ -1,0 +1,27 @@
+DATABASE_PASSWORD: ENC[AES256_GCM,data:1r86nmGrO1rRY4c=,iv:E/BMSW3/VDOrDn40LYmeOyq3RqJiISObIgkQRP/VOLY=,tag:KM9V0mltpD7wMYuPYtXiaA==,type:str]
+sops:
+    kms: []
+    gcp_kms: []
+    azure_kv: []
+    hc_vault: []
+    age: []
+    lastmodified: "2022-01-23T15:00:46Z"
+    mac: ENC[AES256_GCM,data:p/wmEbyUtAkSPwmRyBMkXUiyuPmsbESh8QRJPLJuBjNuY1KXvXnxUbeHq7+h8FvFIT9Xl5IMZTU04qrD1WVNNOWc/xUKNgwMqi6NNgpSnNieZ+XZrfvGzwnLoLqd3NoSNxVCIk2SoPOW7SgJHRnfYG54eU2HSya6TwU8VCZD9nk=,iv:fah84wPt1fLD+fRim27Umpo0n37I71Lsnp7vkFFmrJU=,tag:6nEFNjcKwsPs7ro0z4QStA==,type:str]
+    pgp:
+        - created_at: "2022-01-23T14:58:39Z"
+          enc: |
+            -----BEGIN PGP MESSAGE-----
+
+            hQEMA1NcX0KueY6rAQf+Ki/4ZZNDWdY/Vyha3i6M4xs245B1O4+CBtdPFRgMWmsc
+            jGEFjdLwm49IWtSQd6evUFj8DhGJacao5rl98UR+hi+ommXJTHEP5jCV+gh+E9dI
+            1247QeCnQ6RYFn/sX4H5/PrlzR4xOcnjo70rV/xk0IjLXdN/0iQ3I4chvXlLF9Mi
+            Qk4OOa/aHFlNSfYAIEiDdKih8XMlDpreQocJw/gK3iL+jtu2viObaSl8EmycCN8X
+            bfk0OHEEc7Tjg8pL7WxZOjv3U4EQHHFxGY2ZwA+17XTv5xc/yot72Kmk0qt1s/v1
+            vKeRGJllgYkfXsD2/6YK5UEfLNzohYpZd40teZgAhNRoAQkCEKO7aS27dEyRbyj2
+            KKjZ+1bth9GIa2x/onIXoY7Vnz9iThT85CwAvIyO4w9U9fKCCwL0mYhKdlReGlJB
+            Ju5NdDZEno8RFj0M4Keq827pNJiEzAxyhQdSwEYyHG0sdU7qvWMVb5g=
+            =D4b2
+            -----END PGP MESSAGE-----
+          fp: 3B463C5D2E257853D072B6916035D14274A7A5CB
+    unencrypted_suffix: _unencrypted
+    version: 3.7.1

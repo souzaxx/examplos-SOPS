@@ -1,0 +1,3 @@
+creation_rules:
+  - pgp: ""
+    encrypted_regex: "^(user.*|password.*|.*[Bb]earer.*|.*[Kk]ey|.*[Kk]eys|salt|sentry.*|.*[Tt]oken)$"

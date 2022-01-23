@@ -1,0 +1,4 @@
+log_level: info
+message: Essa mensagem é segura para ser versionada
+user_db: lucas
+password_db: superSenha
